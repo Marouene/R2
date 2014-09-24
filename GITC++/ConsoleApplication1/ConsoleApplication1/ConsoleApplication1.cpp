@@ -10,6 +10,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << "rrrrrrrrr\n";
 	cout << "oui c'DDDDestJJHHN?JBJJJJJJJFRFEFEFEFE8888888899999111111111FEF moi le roodddd\n";
 	cout << "ça doit étre boHHHHHHn....\n";
+	cout << "dernier developpement\n";
 	system("pause");
 	return 0;
 }
