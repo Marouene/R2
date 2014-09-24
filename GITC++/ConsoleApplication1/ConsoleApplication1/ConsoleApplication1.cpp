@@ -8,7 +8,8 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	cout << "rrrrrrrrr\n";
-	cout << "oui c'DDDDestJJHHN?JBJJJJJJJFRFEFEFEFE8888888899999FEF moi le roodddd\n";
+	cout << "oui c'DDDDestJJHHN?JBJJJJJJJFRFEFEFEFE8888888899999111111111FEF moi le roodddd\n";
+	cout << "ça doit étre bon....\n";
 	system("pause");
 	return 0;
 }
