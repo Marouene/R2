@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : définit le point d'entrée pour l'application console.
+// ConsoleApplication1.cppÂ : dÃ©finit le point d'entrÃ©e pour l'application console.
 //
 
 #include "stdafx.h"
@@ -9,7 +9,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	cout << "rrrrrrrrr\n";
 	cout << "oui c'DDDDestJJHHN?JBJJJJJJJFRFEFEFEFE8888888899999111111111FEF moi le roodddd\n";
-	cout << "�a doit �tre bon....\n";
+	cout << "ça doit étre boHHHHHHn....\n";
 	system("pause");
 	return 0;
 }
